@@ -33,7 +33,7 @@ public class assigment1 : ProcessingLite.GP21
         
     }
 
-        //method for writings the letters one by one. Loop?
+        //method for writings the letters one by one.
         IEnumerator wait()      
         {
             StrokeWeight(1.4f);
